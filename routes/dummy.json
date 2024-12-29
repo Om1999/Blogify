@@ -1,0 +1,43 @@
+{
+    "settings": {
+        "x-powered-by": true,
+        "etag": "weak",
+        "env": "development",
+        "query parser": "extended",
+        "subdomain offset": 2,
+        "trust proxy": false,
+        "views": "/home/om/Desktop/nodeJS/youtube-blog/views",
+        "jsonp callback name": "callback",
+        "view engine": "ejs"
+    },
+    "user": {
+        "_id": "6765f4960a852107f4942a40",
+        "email": "iamomprakash929@gmail.com",
+        "profileImageURL": "/images/default.png",
+        "role": "USER",
+        "iat": 1735483647
+    },
+    "blogs": [
+        {
+            "_id": "676fdd733ce16c6f3d92043d",
+            "title": "Babu Bisleri",
+            "body": "I am Babu Bisleri",
+            "coverImageURL": "/uploads/1735384435945-cool-black-i8-bmw-laptop-o2rzhjo5h25a2w6g.jpg",
+            "createdBy": "6765f4960a852107f4942a40",
+            "createdAt": "2024-12-28T11:13:55.960Z",
+            "updatedAt": "2024-12-28T11:13:55.960Z",
+            "__v": 0
+        },
+        {
+            "_id": "677003626d09e2ff479d739f",
+            "title": "Random Image",
+            "body": "Adding a random image from system",
+            "coverImageURL": "/uploads/1735394146353-images.jpeg",
+            "createdBy": "6765f4960a852107f4942a40",
+            "createdAt": "2024-12-28T13:55:46.373Z",
+            "updatedAt": "2024-12-28T13:55:46.373Z",
+            "__v": 0
+        }
+    ],
+    "_locals": {},
+}
